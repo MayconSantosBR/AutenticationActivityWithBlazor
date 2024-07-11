@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fontes\\AuthorizationActivityServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\entities\\accounts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\entities\\accounts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\authentication\\customautenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\authentication\\customautenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\services\\base\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\services\\base\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|c:\\fontes\\authorizationactivityserver\\authorizationactivityserver\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA4AE5F-301A-4A70-9498-18D31D11D44B}|AuthorizationActivityServer\\AuthorizationActivityServer.csproj|solutionrelative:authorizationactivityserver\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Accounts.json",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Entities\\Accounts.json",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Entities\\Accounts.json",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Entities\\Accounts.json",
+              "RelativeToolTip": "AuthorizationActivityServer\\Entities\\Accounts.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T02:57:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "AuthorizationActivityServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABdNwEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-11T02:47:42.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "AuthorizationActivityServer\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T02:44:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Services\\Base\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Services\\Base\\ServiceBase.cs",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Services\\Base\\ServiceBase.cs",
+              "RelativeToolTip": "AuthorizationActivityServer\\Services\\Base\\ServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:41:19.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Entities\\Account.cs",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Entities\\Account.cs",
+              "RelativeToolTip": "AuthorizationActivityServer\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:40:50.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Program.cs",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Program.cs",
+              "RelativeToolTip": "AuthorizationActivityServer\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:40:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\App.razor",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\App.razor",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\App.razor",
+              "RelativeToolTip": "AuthorizationActivityServer\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T02:39:09.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Pages\\Index.razor",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Pages\\Index.razor",
+              "RelativeToolTip": "AuthorizationActivityServer\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T02:38:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "AuthorizationActivityServer\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T02:36:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "AuthorizationActivityServer\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T02:36:10.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Pages\\Login.razor",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Pages\\Login.razor",
+              "RelativeToolTip": "AuthorizationActivityServer\\Pages\\Login.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T02:35:45.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomAutenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Authentication\\CustomAutenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Authentication\\CustomAutenticationStateProvider.cs",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Authentication\\CustomAutenticationStateProvider.cs",
+              "RelativeToolTip": "AuthorizationActivityServer\\Authentication\\CustomAutenticationStateProvider.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAwwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:31:35.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "AuthorizationActivityServer\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Fontes\\AuthorizationActivityServer\\AuthorizationActivityServer\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "AuthorizationActivityServer\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:33:50.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

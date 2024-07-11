@@ -1,0 +1,30 @@
+﻿@page "/home"
+@using Microsoft.AspNetCore.Components.Authorization
+@inject IJSRuntime JSRuntime
+
+<PageTitle>Home</PageTitle>
+
+<AuthorizeView>
+    <Authorized>
+        <h1>Bem vindo(a) @context.User.Identity.Name!</h1>
+        <br /><br />
+        <button class="btn btn-primary" @onclick="DisplayGreetingAlert">Exibir alerta de boas-vindas</button>
+    </Authorized>
+    <NotAuthorized>
+        <h1>Você não está autorizado a acessar esta página</h1>
+    </NotAuthorized>
+</AuthorizeView>
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+@code {
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationState { get; set; }
+
+    private async Task DisplayGreetingAlert()
+    {
+        var authState = await authenticationState;
+        var user = authState.User;
+        await JSRuntime.InvokeVoidAsync("alert", $"Bem vindo(a)! {user.Identity.Name}!");
+    }
+}

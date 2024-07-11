@@ -1,0 +1,52 @@
+﻿@page "/login"
+@using AuthorizationActivityServer.Authentication
+@using AuthorizationActivityServer.Entities
+@using AuthorizationActivityServer.Services
+@inject AccountService AccountService
+@inject AuthenticationService AuthenticationService
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject NavigationManager Navigation
+@inject IJSRuntime JSRuntime
+
+<h3>Login</h3>
+
+<div class="row">
+	<div class="col-md-6">
+		<div class="form-group">
+			<label for="username">Usuário</label>
+			<input type="text" class="form-control" id="username" @bind="username" />
+		</div>
+		<div class="form-group">
+			<label for="password">Senha</label>
+			<input type="password" class="form-control" id="password" @bind="password" />
+		</div>
+		<button class="btn btn-primary" @onclick="AccountLogin">Login</button>
+	</div>
+</div>
+
+@code {
+	private string username;
+	private string password;
+
+	private async void AccountLogin()
+	{
+		if (AuthenticationService.Authenticate(username, password))
+		{
+			Account account = AccountService.GetAccount(username);
+
+			var customAuthStateProvider = (CustomAutenticationStateProvider)AuthenticationStateProvider;
+			await customAuthStateProvider.UpdateAuthenticationState(new UserSession()
+				{
+					Username = account.Username,
+					Role = account.Role
+				});
+
+			Navigation.NavigateTo("/home");
+		}
+		else
+		{
+			await JSRuntime.InvokeVoidAsync("alert", "Usuário ou senha inválidos");
+			return;
+		}
+	}
+}
